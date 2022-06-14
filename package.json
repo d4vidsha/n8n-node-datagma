@@ -1,5 +1,5 @@
 {
-    "name": "n8n-nodes-datagma",
+    "name": "n8n-node-datagma",
     "version": "0.1.0",
     "description": "Consumes Datagma API",
     "license": "SEE LICENSE IN LICENSE.md",
