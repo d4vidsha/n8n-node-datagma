@@ -1,6 +1,6 @@
 {
     "name": "n8n-node-datagma",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Consumes Datagma API",
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://n8n.io",
@@ -12,6 +12,9 @@
         "type": "git",
         "url": "git+https://github.com/d4vidsha/n8n-nodes-starter.git"
     },
+    "keywords": [
+        "n8n-community-node-package"
+    ],
     "main": "index.js",
     "scripts": {
         "dev": "npm run watch",
